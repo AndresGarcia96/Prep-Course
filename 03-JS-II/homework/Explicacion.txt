@@ -1,0 +1,21 @@
+Que es For
+Crea un bucle que consiste en tres expresiones opcionales, encerradas en paréntesis y separadas por puntos y comas, seguidas de una sentencia ejecutada en un bucle.
+
+El bucle FOR se utiliza para repetir una o más instrucciones un determinado número de veces. De entre todos los bucles, el FOR se suele utilizar cuando sabemos seguro el número de veces que queremos que se ejecute.
+
+Operador lógico &&
+
+Significa en español " Y ", o en ingles " AND "
+Esto evaluara ambas expresiones y devolverá TRUE si ambas expresiones son verdaderas,
+si una de ellas o ambas expresiones son falsas devolverá FALSE.
+
+Operador lógico ||
+
+Significa en español " Ó ", o en ingles " OR "
+Determina si una de las expresiones son verdaderas, devolverá TRUE si una o ambas expresiones
+son verdaderas, devolverá FALSE si ambas expresiones falsas.
+
+Operador lógico !
+
+Significa en español " NO " o en ingles " NOT "
+Este operador devolverá el valor booleano opuesto de lo que se le pasa.
