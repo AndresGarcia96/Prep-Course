@@ -163,7 +163,7 @@ function esPrimo(numero) {
     return false;
   }
   for (var p = 2; p <= numero -1; p++) {
-    if (numero % p === 0)
+    if (numero % p === 0);
       return false;
   }
     return true;
